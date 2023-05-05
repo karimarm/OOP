@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\bin\Debug\L1_OOP.exe.config
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\bin\Debug\L1_OOP.exe
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\bin\Debug\L1_OOP.pdb
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.Properties.Resources.resources
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.exe
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.pdb
+C:\Users\user\Desktop\Учёба\ООП\L1_OOP\L1_OOP\obj\Debug\L1_OOP.mainForm.resources

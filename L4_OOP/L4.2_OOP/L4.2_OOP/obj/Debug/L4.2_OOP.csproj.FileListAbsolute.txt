@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\bin\Debug\L4.2_OOP.exe.config
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\bin\Debug\L4.2_OOP.exe
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\bin\Debug\L4.2_OOP.pdb
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4.2_OOP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4.2_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4._2_OOP.Form1.resources
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4._2_OOP.Properties.Resources.resources
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4.2_OOP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4.2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4.2_OOP.exe
+C:\Users\user\Desktop\Учёба\ООП\L4.2_OOP\L4.2_OOP\obj\Debug\L4.2_OOP.pdb

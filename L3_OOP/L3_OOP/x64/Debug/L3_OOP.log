@@ -1,0 +1,5 @@
+﻿  L3_OOP.cpp
+C:\Users\user\Desktop\Учёба\ООП\L3_OOP\L3_OOP\L3_OOP.cpp(127,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\Учёба\ООП\L3_OOP\L3_OOP\L3_OOP.cpp(266): warning C4715: Storage<int>::topFront: значение возвращается не при всех путях выполнения
+C:\Users\user\Desktop\Учёба\ООП\L3_OOP\L3_OOP\L3_OOP.cpp(295): warning C4715: Storage<int>::topBack: значение возвращается не при всех путях выполнения
+  L3_OOP.vcxproj -> C:\Users\user\Desktop\Учёба\ООП\L3_OOP\x64\Debug\L3_OOP.exe
